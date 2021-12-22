@@ -1,14 +1,13 @@
 [
  {
-   "repository" : "EcrosoftXiao/vendor_xiaomi_haydn",
+   "repository" : "xiaomi-haydn-dev/vendor_xiaomi_haydn",
    "target_path": "vendor/xiaomi/haydn",
-   "branch"     : "eleven"
+   "branch"     : "arrow-12"
  },
  {
-   "repository" : "vendor_xiaomi_sdm845-common-extra",
+   "repository" : "xiaomi-haydn-dev/vendor_xiaomi_sdm845-common-extra",
    "target_path": "vendor/xiaomi/sdm845-common-extra",
-   "branch"     : "twelve",
-   "remote"     : "pixel-devices-blobs"
+   "branch"     : "twelve"
  },
  {
    "repository" : "EcrosoftXiao/kernel_xiaomi_haydn",
